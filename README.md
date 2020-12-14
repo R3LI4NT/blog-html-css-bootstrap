@@ -1,3 +1,3 @@
 ```diff
--           Mini-Blog Responsive
+Mini-Blog Responsive
 ```
