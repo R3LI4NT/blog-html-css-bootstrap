@@ -1,1 +1,1 @@
-# blog-html-css-boostrap
+# miniblog_responsive-html-css-boostrap
