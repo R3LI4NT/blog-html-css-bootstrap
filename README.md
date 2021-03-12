@@ -1,3 +1,4 @@
+![GitHub language count](https://img.shields.io/github/languages/count/R3LI4NT/blog-html-css-bootstrap)
 # Mini-Blog Responsive
 
 ![#2197EF](https://via.placeholder.com/15/2197EF/000000?text=+) `Formato PC`
